@@ -1,4 +1,5 @@
 module.exports = {
+
     quotes: [
      {
       "quote": {
@@ -34,14 +35,6 @@ module.exports = {
      },
      {
       "quote": {
-       "text": "There are only three things women need in life: food, water, and compliments."
-      },
-      "author": {
-       "text": "Chris Rock"
-      }
-     },
-     {
-      "quote": {
        "text": "A woman should be like a single flower, not a whole bouquet."
       },
       "author": {
@@ -54,22 +47,6 @@ module.exports = {
       },
       "author": {
        "text": "Allegra Versace"
-      }
-     },
-     {
-      "quote": {
-       "text": "A girl should be two things: classy and fabulous."
-      },
-      "author": {
-       "text": "Coco Chanel"
-      }
-     },
-     {
-      "quote": {
-       "text": "Men always want to be a woman's first love - women like to be a man's last romance."
-      },
-      "author": {
-       "text": "Oscar Wilde"
       }
      },
      {
@@ -106,30 +83,6 @@ module.exports = {
      },
      {
       "quote": {
-       "text": "After women, flowers are the most lovely thing God has given the world."
-      },
-      "author": {
-       "text": "Christian Dior"
-      }
-     },
-     {
-      "quote": {
-       "text": "Women are made to be loved, not understood."
-      },
-      "author": {
-       "text": "Oscar Wilde"
-      }
-     },
-     {
-      "quote": {
-       "text": "There's three things men always talk about - women, sports, and cars."
-      },
-      "author": {
-       "text": "Mario Lopez"
-      }
-     },
-     {
-      "quote": {
        "text": "The glory of justice and the majesty of law are created not just by the Constitution - nor by the courts - nor by the officers of the law - nor by the lawyers - but by the men and women who constitute our society - who are the protectors of the law as they are themselves protected by the law."
       },
       "author": {
@@ -142,14 +95,6 @@ module.exports = {
       },
       "author": {
        "text": "Rozonda Thomas"
-      }
-     },
-     {
-      "quote": {
-       "text": "I love women, but I feel like you can't trust some of them. Some of them are liars, you know? Like I was in the park and I met this girl, she was cute and she had a dog. And I went up to her, we started talking. She told me her dog's name. Then I said, 'Does he bite?' She said, 'No.' And I said, 'Oh yeah? Then how does he eat?' Liar."
-      },
-      "author": {
-       "text": "Demetri Martin"
       }
      },
      {

@@ -1,5 +1,17 @@
-extends layout
-
-block content
-  h1= title
-  p Welcome to #{title}
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+  body
+    block content.
+    <h1>Feminist Quotes!</h1>
+    <h3>This REST API sends you empowering words from allies around the globe.</h3>
+    <h4> API Usage</h4>
+    <div>
+    <p>GET: https://secret-sea-77772.herokuapp.com/quotes</p>
+    <img src="/images/quotes.png" />
+    </div>
+    <footer>
+    <p>Created with love by Allyn Alda.</p>
+    </footer>
