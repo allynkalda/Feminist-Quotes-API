@@ -2,8 +2,22 @@ body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
   text-align: center;
+  background-color: #FF7781;
+  font-family: 'Montserrat', sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+h1 {
+  color: #FDFA95
+}
+
+h3, h4 {
+  color: rgb(97, 96, 96)
+}
+
+p {
+  color: white
 }
