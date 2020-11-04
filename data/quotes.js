@@ -259,14 +259,6 @@ module.exports = {
      },
      {
       "quote": {
-       "text": "What I've never understood is why some women use plastic surgery to make themselves more attractive to men. The most beautiful woman is someone who's happy and is always smiling."
-      },
-      "author": {
-       "text": "Irina Shayk"
-      }
-     },
-     {
-      "quote": {
        "text": "The valor and courage of our young women and men in the armed services are a shining example to all of the world, and we owe them and their families our deepest respect."
       },
       "author": {
