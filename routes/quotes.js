@@ -6,4 +6,9 @@ router.get('/', function(req, res, next) {
   res.status(200).send(quotes);
 });
 
+router.get('/random', function(req, res, next) {
+  var randomNum = Math.floor(Math.random() * 100) + 1;
+  res.status(200).send(quotes.quotes[randomNum]);
+});
+
 module.exports = router;
